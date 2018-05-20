@@ -7,5 +7,5 @@
 您可以访问我们的官方网站获取更多相信息
 [QIULot Offical Web Site](https://www.qiulot.io "球乐官方网站")
 
-版本 0.1.0520
-下载： [Link](https://github.com/qiulot/release/raw/master/%5B%E7%90%83%E4%B9%90%5D_%5Bcom.qiulot.betapp%5D_0.1.0520_18-5-20.apk "0.1.0520")
+版本 0.1.0501
+下载： [Link](https://github.com/qiulot/release/raw/master/%E6%AD%A3%E5%BC%8F%E7%89%88qiulot_0.1.0501_18-5-18.apk "0.1.0501")
