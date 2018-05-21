@@ -8,4 +8,4 @@
 [QIULot Offical Web Site](https://www.qiulot.io "球乐官方网站")
 
 版本 0.1.0501
-下载： [Link](https://github.com/qiulot/release/raw/master/%E6%AD%A3%E5%BC%8F%E7%89%88qiulot_0.1.0501_18-5-18.apk "0.1.0501")
+下载： [Link](https://github.com/qiulot/release/blob/master/%5Bio.qiulot.app%5D_0.1.0501.apk "0.1.0501")
